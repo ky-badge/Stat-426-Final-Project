@@ -1,0 +1,362 @@
+,Case Number,Enrollment Status,Date of Graduation,College/Major,Place of employment,Type of Contact,Gender,Sexual Orientation,Veteran Status,Immigration Status,Country of origin (if known),Language Preference,Limited English proficiency (from advocate's observation/discretion) ,Athletics affiliated?,Fraternity/Sorority Affiliated?,Working for Center for Disability and Access,International Student,Refugee Status/Background,Client status,Advocate,gender,Relation,Case Count,True Type,Case Type Modified
+0,1,Transferred/left the U,,,,Phone,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,5,,English,No,,,Prefer not to disclose,No,Prefer not to disclose,Inactive (currently not engaged),A,She/Her,Student,30,Domestic Violence,Violence
+1,1,Transferred/left the U,,,,Phone,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,5,,English,No,,,Prefer not to disclose,No,Prefer not to disclose,Inactive (currently not engaged),A,She/Her,Secondary Survivor (non-campus member),30,Domestic Violence,Violence
+2,2,,,,Academic advising,In person,Female,Prefer not to disclose,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Employee,7,Sexual Harassment,Sexual Harassment
+3,3,Enrolled,,College of Nursing,Unknown,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Student,4,Unknown,Other
+4,3,Enrolled,,College of Nursing,Unknown,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Employee,4,Unknown,Other
+5,4,Enrolled,,Coll of Soc & Behavioral Sci/Human Develop & Family Std BS,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,10,Sexual Assault,Sexual Assault
+6,5,,,,International Student & Scholar Services,In person,Female,Lesbian,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Student,5,Domestic Violence,Violence
+7,5,,,,International Student & Scholar Services,In person,Female,Lesbian,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Employee,5,Domestic Violence,Violence
+8,6,Graduated,2018-12-14,College of Humanities/David Eccles Sch of Business,David Eccles Sch of Business,In person,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,5,,English,No,No,No,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Inactive (currently not engaged),B,She/Her,Student,4,Sexual Harassment,Sexual Harassment
+9,6,Graduated,2018-12-14,College of Humanities/David Eccles Sch of Business,David Eccles Sch of Business,In person,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,5,,English,No,No,No,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Inactive (currently not engaged),B,She/Her,Employee,4,Sexual Harassment,Sexual Harassment
+10,7,Enrolled,,,,In person,Female,Straight,No,3,,English,No,,,No,No,No,Inactive (currently not engaged),A,She/Her,Student,8,Dating Violence,Violence
+11,8,,,,UofU Hospital/RN,Phone,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Employee,4,Domestic Violence,Violence
+12,11,,,,,In person,Female,Bisexual,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Former Student,12,Domestic Violence,Violence
+13,12,Enrolled,,,,In person,Female,Straight,No,3,,English,No,,,No,No,No,Inactive (currently not engaged),A,She/Her,Student,6,Other,Other
+14,13,Graduated,2018-12-14,,,In person,Female,Straight,No,3,,English,No,,,No,No,No,Inactive (currently not engaged),A,She/Her,Student,6,Sexual Harassment,Sexual Harassment
+15,14,Enrolled,,,,In person,Female,Lesbian,No,3,,English,No,,,No,No,No,Inactive (currently not engaged),A,She/Her,Student,3,Other,Other
+16,15,Transferred/left the U,,,,In person,Prefer not to disclose,Prefer not to disclose,No,3,,English,No,,,Prefer not to disclose,No,No,Inactive (currently not engaged),A,He/Him,Student,2,Dating Violence,Violence
+17,15,Transferred/left the U,,,,In person,Prefer not to disclose,Prefer not to disclose,No,3,,English,No,,,Prefer not to disclose,No,No,Inactive (currently not engaged),A,He/Him,Employee,2,Dating Violence,Violence
+18,16,Enrolled,,University College,Marriott Library,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,10,Rape,Sexual Assault
+19,16,Enrolled,,University College,Marriott Library,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,10,Rape,Sexual Assault
+20,17,Enrolled,,David Eccles Sch of Business,,In person,Female,Straight,No,1,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),C,She/Her,Student,9,Domestic Violence,Violence
+21,18,Graduated,2019-08-02,College of Fine Arts,,In person,Female,Straight,No,3,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),B,She/Her,Student,6,Sexual Harassment,Sexual Harassment
+22,19,Transferred/left the U,,,,In person,Female,Straight,,3,,English,No,No,,,No,No,Active (currently engaged),D,NaN,Student,40,Trafficking,Other
+23,20,Graduated,2007-12-14,College of Undergraduate Studies,,Phone,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,10,Sexual Assault,Sexual Assault
+24,21,Graduated,2018-12-14,,,In person,Female,Prefer not to disclose,Prefer not to disclose,5,,English,No,,,No,No,,Inactive (currently not engaged),A,She/Her,Student,3,Other,Other
+25,22,Graduated,2016-05-05,,Landscape/Grounds,In person,Female,Straight,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,3,Sexual Harassment,Sexual Harassment
+26,22,Graduated,2016-05-05,,Landscape/Grounds,In person,Female,Straight,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,3,Sexual Harassment,Sexual Harassment
+27,23,Transferred/left the U,,"College of Health, Athletic Training",,In person,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,5,,,No,No,No,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Inactive (currently not engaged),A,She/Her,Student,18,Dating Violence,Violence
+28,24,,,,Red Butte Gardens,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Employee,2,Sexual Harassment,Sexual Harassment
+29,25,Graduated,2013-12-20,"School of Music, MA",,Phone,Female,Prefer not to disclose,Prefer not to disclose,5,,English,No,No,No,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Inactive (currently not engaged),A,She/Her,Student,25,Rape,Sexual Assault
+30,26,Transferred/left the U,,,University of Utah Health- Hospital,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Student,5,Sexual Assault,Sexual Assault
+31,26,Transferred/left the U,,,University of Utah Health- Hospital,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Employee,5,Sexual Assault,Sexual Assault
+32,27,Enrolled,,"College of Dance, MFA Modern Dance",Teaching assistant - Modern Dance Dept.,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Student,5,Sexual Harassment,Sexual Harassment
+33,27,Enrolled,,"College of Dance, MFA Modern Dance",Teaching assistant - Modern Dance Dept.,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Employee,5,Sexual Harassment,Sexual Harassment
+34,27,Enrolled,,"College of Dance, MFA Modern Dance",Teaching assistant - Modern Dance Dept.,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Faculty,5,Sexual Harassment,Sexual Harassment
+35,28,Enrolled,,School of Business,,In person,Female,Prefer not to disclose,No,3,,English,No,No,No,Prefer not to disclose,No,No,Inactive (currently not engaged),A,She/Her,Student,15,Sexual Harassment,Sexual Harassment
+36,29,Transferred/left the U,,Pre Nursing,Union and Hospital,In person,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,5,,English,,No,No,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Active (currently engaged),A,She/Her,Student,16,Sexual Assault,Sexual Assault
+37,29,Transferred/left the U,,Pre Nursing,Union and Hospital,In person,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,5,,English,,No,No,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Active (currently engaged),A,She/Her,Employee,16,Sexual Assault,Sexual Assault
+38,30,Transferred/left the U,,"College of Science, Physics ",,In person,Female,Straight,,,,English,No,No,No,No,,,Inactive (currently not engaged),A,She/Her,Student,2,Rape,Sexual Assault
+39,31,Graduated,2019-05-02,Comm. BS,na,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,4,Rape,Sexual Assault
+40,31,Graduated,2019-05-02,Comm. BS,na,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,4,Rape,Sexual Assault
+41,32,Transferred/left the U,,"College of Education, Pre-Special Education",,In person,Female,Prefer not to disclose,No,3,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),B,She/Her,Student,4,Sexual Assault,Sexual Assault
+42,33,Enrolled,,"College of Social and Behavioral Sciences, Sociology/Psychology",,In person,Female,Straight,No,3,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),A,She/Her,Student,28,Rape,Sexual Assault
+43,34,Transferred/left the U,,Sociology/Latin-American Studies,,In person,Female,Lesbian,No,5,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,10,Sexual Assault,Sexual Assault
+44,35,Transferred/left the U,,undeclared,,In person,Female,Bisexual,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,9,Domestic Violence,Violence
+45,38,Enrolled,,Psychology,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,10,Stalking,Sexual Harassment
+46,39,Transferred/left the U,,Nursing,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,11,Domestic Violence,Violence
+47,40,Enrolled,,School of Business,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,10,Sexual Assault,Sexual Assault
+48,41,Enrolled,,Materials Science Engineering,HRE (Resident Advisor),In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,5,Dating Violence,Violence
+49,41,Enrolled,,Materials Science Engineering,HRE (Resident Advisor),In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,5,Dating Violence,Violence
+50,42,Enrolled,,"College of Engineering, Ambassador, Mech. Engineering",,In person,Female,Other,No,3,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),B,She/Her,Student,3,Sexual Assault,Sexual Assault
+51,43,Enrolled,,Biology,R.A. for HRE,In person,Male,Queer,No,3,,,No,,,,No,No,Inactive (currently not engaged),A,He/Him,Student,3,Dating Violence,Violence
+52,43,Enrolled,,Biology,R.A. for HRE,In person,Male,Queer,No,3,,,No,,,,No,No,Inactive (currently not engaged),A,He/Him,Employee,3,Dating Violence,Violence
+53,44,Transferred/left the U,,Social Work,,In person,Female,Prefer not to disclose,Prefer not to disclose,5,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),A,She/Her,Student,2,Dating Violence,Violence
+54,45,Enrolled,,Biology,Huntsman Cancer Institute,In person,Female,Bisexual,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,14,Sexual Assault,Sexual Assault
+55,45,Enrolled,,Biology,Huntsman Cancer Institute,In person,Female,Bisexual,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,14,Sexual Assault,Sexual Assault
+56,46,Graduated,2020-04-30,"College of Architecture, Architecture + Planning/Multidisciplinary Design",,In person,Female,Bisexual,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,15,Dating Violence,Violence
+57,47,,,,Undisclosed,In person,Male,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Employee,14,Domestic Violence,Violence
+58,47,,,,Undisclosed,In person,Male,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Former Student,14,Domestic Violence,Violence
+59,48,,,,Public Health/UofUhealth/Peds Clinical Office,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Employee,3,Sexual Harassment,Sexual Harassment
+60,49,Enrolled,,"College of Education, Spanish Teaching",,In person,Female,Prefer not to disclose,No,5,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,9,Sexual Assault,Sexual Assault
+61,50,Enrolled,,"College of Education, Elementary Education",,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,5,Sexual Assault,Sexual Assault
+62,51,Graduated,2019-05-02,Nursing,U of U Graduate Asst. & VA Hospital,In person,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,5,,English,No,No,No,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Inactive (currently not engaged),A,She/Her,Student,3,Stalking,Sexual Harassment
+63,51,Graduated,2019-05-02,Nursing,U of U Graduate Asst. & VA Hospital,In person,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,5,,English,No,No,No,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Inactive (currently not engaged),A,She/Her,Employee,3,Stalking,Sexual Harassment
+64,52,Graduated,2019-05-02,"School of Business, Business Admin",,In person,Female,Prefer not to disclose,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Student,6,Other,Other
+65,53,Enrolled,,"College of Social and Behavioral Sciences, Anthropology",,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Active (currently engaged),B,She/Her,Student,7,Dating Violence,Violence
+66,54,Enrolled,,Biology,,In person,Female,Prefer not to disclose,Yes,5,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,5,Sexual Assault,Sexual Assault
+67,55,,,,Chartwells,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,11,Domestic Violence,Violence
+68,56,Enrolled,,"College of Science, Biology",,In person,Female,Straight,No,3,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),D,She/Her,Student,10,Stalking,Sexual Harassment
+69,57,Transferred/left the U,,Political Science,,In person,Female,Prefer not to disclose,Prefer not to disclose,2,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,6,Domestic Violence,Violence
+70,58,Transferred/left the U,,Undeclared ,,In person,Female,Straight,No,3,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),B,She/Her,Student,5,Sexual Assault,Sexual Assault
+71,60,Enrolled,,Sociology,,In person,Female,Prefer not to disclose,Prefer not to disclose,5,,,No,,,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Inactive (currently not engaged),A,She/Her,Student,2,Dating Violence,Violence
+72,61,Enrolled,,"College of Social Work, Psych/Social Work",University of Utah Health,In person,Female,Straight,No,3,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),C,She/Her,Student,9,Domestic Violence,Violence
+73,61,Enrolled,,"College of Social Work, Psych/Social Work",University of Utah Health,In person,Female,Straight,No,3,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),C,She/Her,Employee,9,Domestic Violence,Violence
+74,62,Transferred/left the U,,Undecided ,Event Staff,Email,Female,Bisexual,No,3,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),A,She/Her,Student,2,Other,Other
+75,62,Transferred/left the U,,Undecided ,Event Staff,Email,Female,Bisexual,No,3,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),A,She/Her,Employee,2,Other,Other
+76,63,Enrolled,,"2 colleges science and arts, Biology and Film",,In person,Female,Prefer not to disclose,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,7,Unknown,Other
+77,64,Enrolled,,"College of Fine Arts, Art History",HRE (resident assistant),In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,6,Sexual Assault,Sexual Assault
+78,64,Enrolled,,"College of Fine Arts, Art History",HRE (resident assistant),In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,6,Sexual Assault,Sexual Assault
+79,65,Graduated,2016-05-05,"College of Engineering, Electrical Engineering",,In person,Female,Straight,No,3,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),B,She/Her,Student,3,Other,Other
+80,65,Graduated,2016-05-05,"College of Engineering, Electrical Engineering",,In person,Female,Straight,No,3,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),B,She/Her,Employee,3,Other,Other
+81,66,Graduated,2017-12-15,Biomedical Engineering,Graduate Research Assistant,In person,Female,Other,No,4,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,4,Dating Violence,Violence
+82,66,Graduated,2017-12-15,Biomedical Engineering,Graduate Research Assistant,In person,Female,Other,No,4,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,4,Dating Violence,Violence
+83,67,Transferred/left the U,,"College of Social and Behavioral Sciences, Anthropology (B.S)",,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Active (currently engaged),A,She/Her,Student,18,Sexual Assault,Sexual Assault
+84,68,Graduated,2020-04-30,"School of Business, Accounting",,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,22,Rape,Sexual Assault
+85,69,Transferred/left the U,,"College of Science, Biology ",,In person,Female,Prefer not to disclose,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,3,Sexual Assault,Sexual Assault
+86,70,Enrolled,,"College of Social and Behavioral Sciences, Psy BS and Economics Minor",,Email,Female,Lesbian,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),B,She/Her,Student,5,Dating Violence,Violence
+87,71,Graduated,2020-04-30,"School of Business, Finance ",,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,12,Rape,Sexual Assault
+88,72,Transferred/left the U,,Undecided ,,In person,Nonbinary / Gender Queer,Bisexual,No,3,,English,No,No,No,No,No,No,Active (currently engaged),B,He/Him,Student,7,Other,Other
+89,73,Enrolled,,Animation/Psych,,In person,Female,Prefer not to disclose,No,5,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,NaN,Student,17,Unknown,Other
+90,74,Transferred/left the U,,"CSBS, Econ PhD",,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,3,Sexual Harassment,Sexual Harassment
+91,75,Enrolled,,Film Median with Animation,,In person,Female,Other,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,8,Unknown,Other
+92,76,Enrolled,,"College of Fine Arts, Animation & EAE",,In person,Prefer not to disclose,Other,No,3,,English,No,No,No,No,No,No,Active (currently engaged),B,NaN,Student,6,Sexual Harassment,Sexual Harassment
+93,77,Graduated,2019-08-02,"College of Social and Behavioral Sciences, Political Science and International Studies",,Email,Female,Straight,No,1,,English,No,No,No,No,No,Yes,Inactive (currently not engaged),A,She/Her,Student,11,Sexual Harassment,Sexual Harassment
+94,79,Transferred/left the U,,"College of Behavioral Health, Psychology ",,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,6,Sexual Assault,Sexual Assault
+95,80,Transferred/left the U,,"College of Social and Behavioral Sciences, Human Development & Family Studies",Academic Advisor,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Active (currently engaged),B,She/Her,Student,14,Dating Violence,Violence
+96,80,Transferred/left the U,,"College of Social and Behavioral Sciences, Human Development & Family Studies",Academic Advisor,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Active (currently engaged),B,She/Her,Employee,14,Dating Violence,Violence
+97,81,Enrolled,,"College of Health, Health , Society, and Policy BS",,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,21,Sexual Assault,Sexual Assault
+98,82,Enrolled,,"College of Social and Behavioral Sciences, Human Development Family Studies",,In person,Female,Straight,No,3,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),B,She/Her,Student,3,Dating Violence,Violence
+99,83,,,,Neurobiology & Anatomy Department (researcher),In person,Female,Other,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,4,Sexual Assault,Sexual Assault
+100,84,Transferred/left the U,,"Education/ELP, Student Affairs",,In person,Female,Other,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,9,Sexual Harassment,Sexual Harassment
+101,85,Transferred/left the U,,Chemistry,,In person,Female,Lesbian,No,3,,English,No,No,No,No,No,No,Active (currently engaged),A,She/Her,Student,10,Sexual Harassment,Sexual Harassment
+102,86,Enrolled,,"College of Social and Behavioral Sciences, Anthropology",Undisclosed,In person,Female,Bisexual,No,3,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),A,She/Her,Student,10,Sexual Assault,Sexual Assault
+103,86,Enrolled,,"College of Social and Behavioral Sciences, Anthropology",Undisclosed,In person,Female,Bisexual,No,3,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),A,She/Her,Employee,10,Sexual Assault,Sexual Assault
+104,87,Transferred/left the U,,Undecided,,In person,Female,Prefer not to disclose,Prefer not to disclose,5,,None stated,No,No,No,No,Prefer not to disclose,Prefer not to disclose,Inactive (currently not engaged),C,She/Her,Student,4,Dating Violence,Violence
+105,88,Enrolled,,College of Social and Behavioral Sciences,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,18,Stalking,Sexual Harassment
+106,89,Enrolled,,"School of Business, MBA",,In person,,,,,,English,,,,,,,Inactive (currently not engaged),C,NaN,Student,8,Stalking,Sexual Harassment
+107,90,Enrolled,,School of Music,,In person,Female,Prefer not to disclose,Prefer not to disclose,5,,English,No,No,No,No,No,Prefer not to disclose,Inactive (currently not engaged),C,NaN,Student,8,Stalking,Sexual Harassment
+108,91,Graduated,2019-05-02,"College of Social and Behavioral Sciences, Political Science",,In person,Female,Straight,Prefer not to disclose,5,,English,No,Yes,Yes,No,No,No,Inactive (currently not engaged),A,She/Her,Student,7,Rape,Sexual Assault
+109,92,Enrolled,,Family Community and Human Development,,In person,Female,Straight,No,3,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),A,She/Her,Student,2,Dating Violence,Violence
+110,93,Graduated,2019-12-31,Exercise Science,,In person,Female,Straight,No,5,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,NaN,Student,4,Sexual Assault,Sexual Assault
+111,94,Graduated,2020-04-30,College of Fine Arts,,In person,Female,Bisexual,No,3,,English,No,Yes,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,32,Dating Violence,Violence
+112,95,Enrolled,,College of Business,,In person,Female,Straight,No,5,,English,No,No,Yes,No,Prefer not to disclose,Prefer not to disclose,Inactive (currently not engaged),A,She/Her,Student,18,Sexual Assault,Sexual Assault
+113,97,Enrolled,,Coll of Soc & Behavioral Sci/Pre-Med,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,21,Dating Violence,Violence
+114,98,,,Communication,,In person,Male,Straight,No,3,,English,,No,No,,No,Yes,Inactive (currently not engaged),C,NaN,Student,5,Sexual Assault,Sexual Assault
+115,100,Graduated,2019-05-02,"College of Social Work, MSW",College of Social Work,In person,Female,Queer,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,3,Sexual Assault,Sexual Assault
+116,100,Graduated,2019-05-02,"College of Social Work, MSW",College of Social Work,In person,Female,Queer,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,3,Sexual Assault,Sexual Assault
+117,103,Graduated,,EAE,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,12,Domestic Violence,Violence
+118,104,Graduated,2019-05-21,"College of Fine Arts, Grad. Music- TA Voice",Graduate teaching assistant,In person,Female,Bisexual,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,10,Dating Violence,Violence
+119,104,Graduated,2019-05-21,"College of Fine Arts, Grad. Music- TA Voice",Graduate teaching assistant,In person,Female,Bisexual,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,10,Dating Violence,Violence
+120,105,Enrolled,,Anthropology/Criminology,,,Female,Straight,Prefer not to disclose,5,,English,,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Student,4,Other,Other
+121,106,Enrolled,,Undeclared,Medical Lab,In person,Female,Straight,,,,English,No,Yes,No,No,,No,Inactive (currently not engaged),A,She/Her,Student,2,Sexual Assault,Sexual Assault
+122,106,Enrolled,,Undeclared,Medical Lab,In person,Female,Straight,,,,English,No,Yes,No,No,,No,Inactive (currently not engaged),A,She/Her,Employee,2,Sexual Assault,Sexual Assault
+123,107,,,Biology,,In person,Female,Other,No,4,,American English,No,No,Yes,No,No,No,Inactive (currently not engaged),C,He/Him,Student,7,Sexual Assault,Sexual Assault
+124,108,Graduated,2019-05-02,College of Health,,Email,Male,,,,,,,,,,,,Inactive (currently not engaged),A,He/Him,Student,3,Stalking,Sexual Harassment
+125,109,Transferred/left the U,,Gender studies & Biology,,In person,Female,Gay,No,5,,English and Chinese,No,No,No,No,Yes,No,Inactive (currently not engaged),C,She/Her,Student,20,Other,Other
+126,110,Enrolled,,Econ,,In person,Female,Straight,,,,English,No,Yes,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,3,Sexual Assault,Sexual Assault
+127,111,Transferred/left the U,,Civil Engineering,,In person,Female,Bisexual,No,5,,English,No,No,No,Prefer not to disclose,No,No,Inactive (currently not engaged),A,She/Her,Student,2,Stalking,Sexual Harassment
+128,112,Graduated,2019-05-02,Humanities,Student Life Center,In person,Female,Straight,,,,English,No,No,Yes,Yes,No,No,Inactive (currently not engaged),A,She/Her,Student,4,Dating Violence,Violence
+129,112,Graduated,2019-05-02,Humanities,Student Life Center,In person,Female,Straight,,,,English,No,No,Yes,Yes,No,No,Inactive (currently not engaged),A,She/Her,Employee,4,Dating Violence,Violence
+130,113,Graduated,2019-05-02,ECE,,In person,Female,,,,,,,No,,,,,Inactive (currently not engaged),A,She/Her,Student,2,Stalking,Sexual Harassment
+131,114,Enrolled,,Business,,In person,Female,Straight,No,3,,English,No,No,Yes,Yes,No,No,Inactive (currently not engaged),A,She/Her,Student,4,Sexual Assault,Sexual Assault
+132,115,,,Pol Sci,,In person,Male,Other,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,NaN,Student,3,Unknown,Other
+133,116,Graduated,2020-12-31,Ethnic and Asian studies,,In person,,,,,,English,No,,,,,,Inactive (currently not engaged),C,She/Her,Student,5,Sexual Assault,Sexual Assault
+134,116,Graduated,2020-12-31,Ethnic and Asian studies,,In person,,,,,,English,No,,,,,,Inactive (currently not engaged),C,She/Her,Employee,5,Sexual Assault,Sexual Assault
+135,117,Graduated,2019-12-13,Sociology,Work Study at Family Medicine Dept. ,In person,Female,Other,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,8,Domestic Violence,Violence
+136,117,Graduated,2019-12-13,Sociology,Work Study at Family Medicine Dept. ,In person,Female,Other,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,8,Domestic Violence,Violence
+137,118,Transferred/left the U,,"School of Music / Doctoral student in Vocal Performance, DMA Voice",TA in department,In person,,,,,,,,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,2,Sexual Harassment,Sexual Harassment
+138,118,Transferred/left the U,,"School of Music / Doctoral student in Vocal Performance, DMA Voice",TA in department,In person,,,,,,,,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,2,Sexual Harassment,Sexual Harassment
+139,119,Enrolled,,Business,,In person,Female,,,,,English,No,Yes,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,7,Rape,Sexual Assault
+140,120,Enrolled,,"Chemistry, Writing",Lerning Success Center,,Female,Bisexual,No,3,,English,No,No,No,No,,No,Inactive (currently not engaged),C,He/Him,Student,6,Sexual Assault,Sexual Assault
+141,120,Enrolled,,"Chemistry, Writing",Lerning Success Center,,Female,Bisexual,No,3,,English,No,No,No,No,,No,Inactive (currently not engaged),C,He/Him,Employee,6,Sexual Assault,Sexual Assault
+142,121,Enrolled,,History,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,8,Sexual Assault,Sexual Assault
+143,122,Enrolled,,HSP,The bennion Center ,Email,Female,Prefer not to disclose,No,3,,English,Yes,No,No,No,No,Yes,Inactive (currently not engaged),C,She/Her,Student,4,Unknown,Other
+144,122,Enrolled,,HSP,The bennion Center ,Email,Female,Prefer not to disclose,No,3,,English,Yes,No,No,No,No,Yes,Inactive (currently not engaged),C,She/Her,Employee,4,Unknown,Other
+145,123,Enrolled,,MSW,,In person,Female,,No,3,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),A,He/Him,Student,4,Sexual Assault,Sexual Assault
+146,124,Enrolled,,Film&Media arts,,In person,Other,Gay,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Student,3,Unknown,Other
+147,125,Enrolled,,Sociology and Criminology,,In person,Female,Straight,No,3,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),A,She/Her,Student,4,Sexual Assault,Sexual Assault
+148,126,Enrolled,,Parks Rec Tourism,Campus Rec,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,19,Dating Violence,Violence
+149,126,Enrolled,,Parks Rec Tourism,Campus Rec,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,19,Dating Violence,Violence
+150,127,Transferred/left the U,,Biology,,In person,Female,Prefer not to disclose,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Student,4,Sexual Assault,Sexual Assault
+151,128,Enrolled,,Biology,,In person,Female,Straight,No,3,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),A,She/Her,Student,16,Sexual Assault,Sexual Assault
+152,129,Enrolled,,History,,Email,Female,Bisexual,No,5,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Student,6,Sexual Assault,Sexual Assault
+153,130,,,,HCI Research Admin,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,5,Domestic Violence,Violence
+154,131,Graduated,2020-04-30,Nursing,,Email,Female,,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,10,Sexual Harassment,Sexual Harassment
+155,132,Enrolled,,Health Promotion,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,4,Sexual Assault,Sexual Assault
+156,133,Graduated,2019-05-21,MFA/BALLET,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,4,Unknown,Other
+157,134,Transferred/left the U,,Political Science,,In person,Female,Bisexual,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,13,Sexual Assault,Sexual Assault
+158,135,Graduated,2020-05-19,Business Adminstration,,,Female,Prefer not to disclose,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,4,Unknown,Other
+159,136,,,,,In person,Male,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,He/Him,Former Student,4,Sexual Assault,Sexual Assault
+160,137,,,,Pioneer theatre Company,In person,Nonbinary / Gender Queer,Other,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,3,Dating Violence,Violence
+161,139,Enrolled,,ENVST,,In person,Female,Straight,No,3,,ASL,Yes,Yes,No,Yes,No,No,Inactive (currently not engaged),A,She/Her,Student,3,Sexual Assault,Sexual Assault
+162,140,Graduated,2019-12-13,Modern Dance,Asuu college of fine Arts senator,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,9,Other,Other
+163,140,Graduated,2019-12-13,Modern Dance,Asuu college of fine Arts senator,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,9,Other,Other
+164,141,Enrolled,,Business,,In person,Female,Prefer not to disclose,Prefer not to disclose,5,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),C,She/Her,Student,3,Sexual Assault,Sexual Assault
+165,142,,,,,In person,Female,Straight,Prefer not to disclose,5,,,No,No,Yes,Yes,No,No,Inactive (currently not engaged),C,She/Her,Student,4,Sexual Assault,Sexual Assault
+166,143,,,Physics,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,5,Sexual Assault,Sexual Assault
+167,144,Enrolled,,Political Science + Health/Society/Policy,OBGYN Research Network,In person,Nonbinary / Gender Queer,Bisexual,No,3,,,No,No,No,No,No,No,Inactive (currently not engaged),A,He/Him,Student,9,Dating Violence,Violence
+168,144,Enrolled,,Political Science + Health/Society/Policy,OBGYN Research Network,In person,Nonbinary / Gender Queer,Bisexual,No,3,,,No,No,No,No,No,No,Inactive (currently not engaged),A,He/Him,Employee,9,Dating Violence,Violence
+169,145,Graduated,2019-12-13,Psychology,,In person,Female,Bisexual,No,1,,None,No,No,No,No,Yes,No,Inactive (currently not engaged),C,He/Him,Student,5,Sexual Assault,Sexual Assault
+170,146,Enrolled,,Social work,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Student,2,Sexual Assault,Sexual Assault
+171,146,Enrolled,,Social work,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Employee,2,Sexual Assault,Sexual Assault
+172,147,Transferred/left the U,,Non-matriculated/College of architecture and planning,,In person,Female,Bisexual,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Student,5,Sexual Assault,Sexual Assault
+173,147,Transferred/left the U,,Non-matriculated/College of architecture and planning,,In person,Female,Bisexual,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Employee,5,Sexual Assault,Sexual Assault
+174,148,Graduated,2019-05-21,Geography,,In person,Female,,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Student,2,Sexual Assault,Sexual Assault
+175,149,Graduated,2019-12-13,Communications,,In person,Female,Straight,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,7,Sexual Assault,Sexual Assault
+176,150,Graduated,2019-12-13,Biology,,Email,Male,Gay,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,He/Him,Student,4,Sexual Assault,Sexual Assault
+177,153,,,,Primary Children's ,In person,Female,,No,3,,English,No,No,No,,No,No,Inactive (currently not engaged),A,She/Her,Employee,14,Domestic Violence,Violence
+178,154,,,Pediatrics,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),(),He/Him,Faculty,3,Domestic Violence,Violence
+179,155,Enrolled,,,CESA,In person,Female,Other,No,4,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,8,Dating Violence,Violence
+180,155,Enrolled,,,CESA,In person,Female,Other,No,4,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,8,Dating Violence,Violence
+181,156,Enrolled,,English Teaching,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,4,Sexual Assault,Sexual Assault
+182,157,Enrolled,,Social work,,Email,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,NaN,Student,4,Sexual Assault,Sexual Assault
+183,159,Enrolled,,Gender Studies,,In person,Female,Straight,No,3,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),A,She/Her,Student,3,Sexual Assault,Sexual Assault
+184,160,,,,School of medicine,In person,Female,Other,No,1,Asian,English. chinese,No,No,No,No,No,No,Inactive (currently not engaged),C,NaN,Employee,9,Unknown,Other
+185,161,Graduated,2019-03-31,Psychiatry MD,,In person,Female,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,6,Stalking,Sexual Harassment
+186,162,Enrolled,,ANTH,,In person,Female,Straight,,,,,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,3,Dating Violence,Violence
+187,163,Enrolled,,"MBA, MSIS",VA,Phone,Female,,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,15,Sexual Assault,Sexual Assault
+188,163,Enrolled,,"MBA, MSIS",VA,Phone,Female,,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,15,Sexual Assault,Sexual Assault
+189,164,Enrolled,,Computer Science,IT department at the U,Email,Male,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),E,NaN,Student,4,Other,Other
+190,164,Enrolled,,Computer Science,IT department at the U,Email,Male,Straight,No,3,,English,No,No,No,No,No,No,Inactive (currently not engaged),E,NaN,Employee,4,Other,Other
+191,165,Enrolled,,Business School/Management,,In person,Female,Straight,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,5,Sexual Assault,Sexual Assault
+192,166,Enrolled,,"Health, society and policy",Pediatrics,In person,Female,Straight,Other,Citizen,,English,No,No,No,Yes,No,Yes,Inactive (currently not engaged),C,She/Her,Student,3,Sexual Assault,Sexual Assault
+193,166,Enrolled,,"Health, society and policy",Pediatrics,In person,Female,Straight,Other,Citizen,,English,No,No,No,Yes,No,Yes,Inactive (currently not engaged),C,She/Her,Employee,3,Sexual Assault,Sexual Assault
+194,167,,,,Orthopaedic Center Research,Email,Female,Straight,Yes,None,,English,No,No,No,No,No,No,Active (currently engaged),E,She/Her,Employee,5,Sexual Harassment,Sexual Harassment
+195,168,Enrolled,,Biology/MB PhD Program,Caron Lab,In person,Female,,,,,,,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,3,Stalking,Sexual Harassment
+196,168,Enrolled,,Biology/MB PhD Program,Caron Lab,In person,Female,,,,,,,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,3,Stalking,Sexual Harassment
+197,169,,,College of Pharmacy,,Email,Female,Other,No,Citizen,,English,No,No,No,No,No,No,Active (currently engaged),E,She/Her,Faculty,4,Sexual Harassment,Sexual Harassment
+198,170,Enrolled,,Law,,Email,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Active (currently engaged),E,She/Her,Student,4,Sexual Assault,Sexual Assault
+199,171,,,,Security office ,Email,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Active (currently engaged),E,She/Her,Employee,4,Domestic Violence,Violence
+200,172,,,,complicated,In person,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,2,Sexual Harassment,Sexual Harassment
+201,173,Enrolled,,Chemistry,,In person,Female,Other,No,Citizen,,English,No,No,Yes,No,No,No,Active (currently engaged),E,She/Her,Student,5,Dating Violence,Violence
+202,174,Enrolled,,Biology,,In person,Female,Straight,No,citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,13,Domestic Violence,Violence
+203,175,Enrolled,,nursing,,Email,Female,Straight,No,citizen,,English,No,No,,No,No,No,Inactive (currently not engaged),A,She/Her,Student,7,Dating Violence,Violence
+204,176,Enrolled,,Medical School,,Email,Female,Lesbian,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,16,Sexual Assault,Sexual Assault
+205,177,Graduated,2020-07-31,Rec. Therapy,,In person,Female,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,,,Yes,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,3,Dating Violence,Violence
+206,179,Enrolled,,History,,In person,Female,Other,No,citizen,,English,No,No,No,No,No,No,Active (currently engaged),A,She/Her,Student,12,Domestic Violence,Violence
+207,180,Enrolled,,Kinesiology,,In person,Female,Lesbian,Other,Prefer not to disclose,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,NaN,Student,4,Stalking,Sexual Harassment
+208,181,,,,NHMU,In person,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,,,,No,,,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Inactive (currently not engaged),C,She/Her,Employee,8,Stalking,Sexual Harassment
+209,182,,,Theatre (ATP),,In person,Female,Other,No,,,English,No,No,No,No,No,No,Active (currently engaged),C,She/Her,Student,7,Dating Violence,Violence
+210,182,,,Theatre (ATP),,In person,Female,Other,No,,,English,No,No,No,No,No,No,Active (currently engaged),C,She/Her,Faculty,7,Dating Violence,Violence
+211,183,Enrolled,,anthropology,,In person,Female,Bisexual,No,student visa,,English/Spanish,No,No,No,No,Yes,No,Inactive (currently not engaged),C,She/Her,Student,3,Dating Violence,Violence
+212,184,Enrolled,,Biology,,In person,Female,Straight,Prefer not to disclose,,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,4,Dating Violence,Violence
+213,185,Enrolled,,Psychology,,Email,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,23,Domestic Violence,Violence
+214,187,Enrolled,,Biology,,In person,Female,Bisexual,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,8,Other,Other
+215,188,,,Biology,,In person,Female,Straight,No,N/A Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,4,Rape,Sexual Assault
+216,189,Enrolled,,Psych/Family,,In person,Female,Straight,No,,,English,No,No,No,Yes,No,No,Active (currently engaged),C,She/Her,Student,16,Sexual Assault,Sexual Assault
+217,191,Enrolled,,Psychology,,In person,Female,Lesbian,No,Citizen,,English,No,No,No,No,No,No,Active (currently engaged),E,She/Her,Student,4,Dating Violence,Violence
+218,192,Enrolled,,Nursing,,In person,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Active (currently engaged),E,She/Her,Student,3,Dating Violence,Violence
+219,193,Enrolled,,Bio,,In person,Female,Straight,No,Citizen,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),A,She/Her,Student,7,Dating Violence,Violence
+220,194,Enrolled,,Biology w/ Spanish Minor,Learning Center Tutor,In person,Female,Straight,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,14,Sexual Assault,Sexual Assault
+221,194,Enrolled,,Biology w/ Spanish Minor,Learning Center Tutor,In person,Female,Straight,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,14,Sexual Assault,Sexual Assault
+222,195,,,udeclared,,In person,Male,Bisexual,No,,,English,No,Yes,No,No,No,No,Inactive (currently not engaged),C,He/Him,Student,6,Sexual Assault,Sexual Assault
+223,196,Enrolled,,Theater Fine Arts,,Email,Male,Gay,No,US Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,NaN,Student,3,Sexual Assault,Sexual Assault
+224,197,Enrolled,,Psychology and Human Development,,In person,Female,Straight,No,none,,english,No,No,Yes,No,No,No,Inactive (currently not engaged),A,She/Her,Student,9,Dating Violence,Violence
+225,198,Enrolled,,3rd year Law,,In person,Trans woman,Straight,No,US Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,11,Sexual Assault,Sexual Assault
+226,199,Enrolled,,ATP but switching to Health Promotion and Education,Admissions,In person,Female,Bisexual,No,,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),A,She/Her,Student,3,Dating Violence,Violence
+227,199,Enrolled,,ATP but switching to Health Promotion and Education,Admissions,In person,Female,Bisexual,No,,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,3,Dating Violence,Violence
+228,200,Enrolled,,Humanities/Asian Studies,,In person,Female,Bisexual,No,citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,4,Sexual Assault,Sexual Assault
+229,201,Enrolled,,Kiniseology,,In person,Female,Prefer not to disclose,No,,,,No,No,Yes,No,No,No,Inactive (currently not engaged),C,She/Her,Student,3,Dating Violence,Violence
+230,202,Enrolled,,Computer engineering,,In person,Female,Straight,,,,,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,9,Dating Violence,Violence
+231,202,Enrolled,,Computer engineering,,In person,Female,Straight,,,,,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,9,Dating Violence,Violence
+232,203,,,Philosopgy,,In person,Female,Straight,No,,,,No,No,No,Yes,No,No,Inactive (currently not engaged),C,He/Him,Student,3,Dating Violence,Violence
+233,204,Enrolled,,English,,In person,Female,Straight,No,Citizen,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),C,She/Her,Student,7,Stalking,Sexual Harassment
+234,204,Enrolled,,English,,In person,Female,Straight,No,Citizen,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,7,Stalking,Sexual Harassment
+235,205,,,,"Information Management, Hospital Health",In person,Female,Prefer not to disclose,No,citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,8,Other,Other
+236,206,Enrolled,,,,In person,Female,Bisexual,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,15,Sexual Assault,Sexual Assault
+237,207,Enrolled,,Communication,,,Female,Prefer not to disclose,Prefer not to disclose,Citizen,,,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,4,Sexual Assault,Sexual Assault
+238,208,Enrolled,,Business,,In person,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),F,She/Her,Student,11,Domestic Violence,Violence
+239,209,Enrolled,,Psychology,,In person,Female,Straight,Other,didn't disclose,,didn't disclose,No,No,No,No,No,No,Active (currently engaged),E,She/Her,Student,3,Sexual Assault,Sexual Assault
+240,210,Enrolled,,"Political Science, International Studies & art history",Art and Art History Dept,In person,Female,Lesbian,No,,,english/spanish,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Student,10,Sexual Harassment,Sexual Harassment
+241,210,Enrolled,,"Political Science, International Studies & art history",Art and Art History Dept,In person,Female,Lesbian,No,,,english/spanish,No,No,No,No,No,No,Inactive (currently not engaged),A,She/Her,Employee,10,Sexual Harassment,Sexual Harassment
+242,211,Enrolled,,Elementary Ed,,In person,Female,Straight,No,,,english,No,,,,,,Inactive (currently not engaged),A,She/Her,Student,6,Sexual Assault,Sexual Assault
+243,212,Enrolled,,MSW,College of Social Work (RAship),In person,Female,Straight,Prefer not to disclose,prefer not to disclose,,English,No,No,No,Prefer not to disclose,No,No,Inactive (currently not engaged),A,She/Her,Student,28,Sexual Harassment,Sexual Harassment
+244,212,Enrolled,,MSW,College of Social Work (RAship),In person,Female,Straight,Prefer not to disclose,prefer not to disclose,,English,No,No,No,Prefer not to disclose,No,No,Inactive (currently not engaged),A,She/Her,Employee,28,Sexual Harassment,Sexual Harassment
+245,213,,,,,In person,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,NaN,Employee,3,Stalking,Sexual Harassment
+246,214,,,,Recreation Therapy,Email,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,18,Sexual Assault,Sexual Assault
+247,216,Enrolled,,Psychology,,In person,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Active (currently engaged),E,She/Her,Student,5,Rape,Sexual Assault
+248,217,,,Communication,,In person,Female,Prefer not to disclose,No,,,,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,4,Rape,Sexual Assault
+249,219,Enrolled,,Anthropology /emphasis on health,,In person,Female,Bisexual,No,,,English,No,,No,Yes,No,No,Inactive (currently not engaged),C,NaN,Student,3,Sexual Assault,Sexual Assault
+250,220,Enrolled,,Biochemistry ,,In person,Female,Straight,No,International student,,English,No,No,No,No,Yes,No,Active (currently engaged),E,She/Her,Student,3,Other,Other
+251,221,Enrolled,,Business Management,,In person,Female,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,,Prefer not to disclose,No,No,No,No,No,No,Inactive (currently not engaged),C,NaN,Student,7,Unknown,Other
+252,222,Enrolled,,Ballet,,In person,Female,Bisexual,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,2,Dating Violence,Violence
+253,224,Graduated,2020-07-31,Math,,In person,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,7,Sexual Assault,Sexual Assault
+254,225,Enrolled,,MBA,,In person,Male,Straight,No,International Student/student visa,,English,No,No,No,No,Yes,No,Active (currently engaged),E,She/Her,Student,5,Domestic Violence,Violence
+255,226,Enrolled,,Nursing,,In person,Female,Straight,No,N/a,,N/a,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,2,Sexual Harassment,Sexual Harassment
+256,227,Enrolled,,Atmosphric Science,,In person,Female,Prefer not to disclose,No,Internation Student,,English,Yes,No,,,Yes,No,Inactive (currently not engaged),C,NaN,Student,3,Sexual Harassment,Sexual Harassment
+257,228,Enrolled,,Elementary Ed,,In person,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),F,She/Her,Student,5,Other,Other
+258,229,Enrolled,,Film and Media Arts EAE,,In person,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,,Prefer not to disclose,No,No,No,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Active (currently engaged),D,He/Him,Student,33,Unknown,Other
+259,230,Enrolled,,Business,,In person,Female,Straight,No,Citizen,,English,No,No,No,Yes,No,,Active (currently engaged),E,She/Her,Student,5,Sexual Assault,Sexual Assault
+260,231,Enrolled,,philosophy,,In person,Female,Straight,No,citizen,,English,No,No,No,No,No,No,Active (currently engaged),A,She/Her,Student,6,Domestic Violence,Violence
+261,232,Enrolled,,Pre-pharmacy,Pharmacy,In person,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Active (currently engaged),D,She/Her,Student,9,Domestic Violence,Violence
+262,232,Enrolled,,Pre-pharmacy,Pharmacy,In person,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Active (currently engaged),D,She/Her,Employee,9,Domestic Violence,Violence
+263,233,Enrolled,,Business,,In person,Female,Other,Prefer not to disclose,,,English,No,No,Yes,Yes,No,No,Inactive (currently not engaged),C,She/Her,Student,2,Other,Other
+264,234,Enrolled,,BSW,Eccles Broadcast Center,In person,Male,Gay,Yes,U.S. Citizen,,english,No,No,No,No,No,No,Inactive (currently not engaged),A,He/Him,Student,9,Domestic Violence,Violence
+265,234,Enrolled,,BSW,Eccles Broadcast Center,In person,Male,Gay,Yes,U.S. Citizen,,english,No,No,No,No,No,No,Inactive (currently not engaged),A,He/Him,Employee,9,Domestic Violence,Violence
+266,235,,,,Custodial,In person,Other,Other,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),F,She/Her,Employee,5,Domestic Violence,Violence
+267,236,Enrolled,,Kinesiology,,In person,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),F,She/Her,Student,3,Unknown,Other
+268,237,,,English Education,,In person,Female,,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,3,Unknown,Other
+269,238,Enrolled,,Undecided,,In person,Female,Lesbian,No,Citizen,,,No,No,No,No,No,No,Inactive (currently not engaged),F,She/Her,Student,3,Unknown,Other
+270,239,Graduated,2020-04-30,BFA,,In person,Female,Straight,No,,,English,No,No,No,No,No,Prefer not to disclose,Inactive (currently not engaged),C,She/Her,Student,3,Dating Violence,Violence
+271,240,,,Political Science,,In person,Female,Bisexual,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,3,Dating Violence,Violence
+272,241,,,English,,In person,,,,,,,,,,,,,Inactive (currently not engaged),A,He/Him,Faculty,10,Stalking,Sexual Harassment
+273,242,Enrolled,,PHD political science/CSNS,Student Leadership Inititiave,In person,Female,Straight,No,Citizen,,english,No,No,No,No,No,No,Active (currently engaged),C,She/Her,Student,16,Stalking,Sexual Harassment
+274,242,Enrolled,,PHD political science/CSNS,Student Leadership Inititiave,In person,Female,Straight,No,Citizen,,english,No,No,No,No,No,No,Active (currently engaged),C,She/Her,Employee,16,Stalking,Sexual Harassment
+275,243,Enrolled,,Mechanical Engineering ,,In person,Female,Straight,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,3,Unknown,Other
+276,245,,,Psychology,,In person,Female,Bisexual,No,,,English,No,No,Yes,,,,Inactive (currently not engaged),C,She/Her,Student,7,Sexual Assault,Sexual Assault
+277,247,Enrolled,,"EE, Poly Sci",,Phone,Female,Straight,No,Citizen,,English,No,Yes,No,No,No,No,Active (currently engaged),D,She/Her,Student,26,Domestic Violence,Violence
+278,248,Enrolled,,Biomedical Engineering,,In person,Female,Bisexual,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),F,She/Her,Student,4,Sexual Assault,Sexual Assault
+279,249,Enrolled,,PharmD,,In person,,,,,,,,,,,,,Inactive (currently not engaged),C,She/Her,Student,2,Domestic Violence,Violence
+280,250,Enrolled,,Business,,In person,Female,Straight,No,Citizen,,,No,No,No,No,No,No,Inactive (currently not engaged),F,She/Her,Student,3,Sexual Harassment,Sexual Harassment
+281,252,Enrolled,,Biology,,Email,Female,Bisexual,No,American citizen,,English,No,No,No,No,No,No,Active (currently engaged),D,She/Her,Student,15,Dating Violence,Violence
+282,253,Enrolled,,QAMO,,In person,Female,Straight,No,,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),A,She/Her,Student,6,Sexual Assault,Sexual Assault
+283,255,Graduated,2019-05-29,sociology,,In person,,,,,,,No,Yes,,,,,Inactive (currently not engaged),A,NaN,Student,7,Domestic Violence,Violence
+284,256,Enrolled,,CSBS / Biology / ENUS,,In person,Female,Gay,No,,,,No,No,Yes,No,No,No,Inactive (currently not engaged),C,She/Her,Student,6,Sexual Assault,Sexual Assault
+285,257,Enrolled,,Prenursing,Guest services,,Female,Straight,No,,,,Yes,No,No,Yes,No,No,Inactive (currently not engaged),C,NaN,Student,3,Sexual Assault,Sexual Assault
+286,257,Enrolled,,Prenursing,Guest services,,Female,Straight,No,,,,Yes,No,No,Yes,No,No,Inactive (currently not engaged),C,NaN,Employee,3,Sexual Assault,Sexual Assault
+287,258,Enrolled,,Psychology and Gender Studies,,In person,Female,Bisexual,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),F,She/Her,Student,3,Unknown,Other
+288,259,,,,Cancer Lab,In person,Female,Straight,No,,,English,No,No,No,No,Yes,No,Inactive (currently not engaged),D,She/Her,Employee,3,Sexual Harassment,Sexual Harassment
+289,261,,,Nursing,Student Services,Phone,Female,Bisexual,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,She/Her,Student,5,Sexual Harassment,Sexual Harassment
+290,261,,,Nursing,Student Services,Phone,Female,Bisexual,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,She/Her,Employee,5,Sexual Harassment,Sexual Harassment
+291,262,Enrolled,,Biology,Academic Advising,In person,Female,Straight,No,,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),D,She/Her,Student,3,Sexual Assault,Sexual Assault
+292,262,Enrolled,,Biology,Academic Advising,In person,Female,Straight,No,,,English,No,No,Yes,No,No,No,Inactive (currently not engaged),D,She/Her,Employee,3,Sexual Assault,Sexual Assault
+293,263,Enrolled,,Writing + Rhetoric,,In person,Nonbinary / Gender Queer,Other,,,,,No,No,No,No,No,No,Inactive (currently not engaged),G,He/Him,Student,2,Dating Violence,Violence
+294,264,Enrolled,,Business,,Email,Female,Straight,,US Citizen,,English,No,,Yes,Yes,No,No,Inactive (currently not engaged),A,She/Her,Student,9,Sexual Assault,Sexual Assault
+295,265,Enrolled,,Fine Arts/ Middle Eastern Studies,,In person,Female,Bisexual,No,Native Born Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,12,Rape,Sexual Assault
+296,266,Graduated,2020-05-28,CS EAE,ISO-GRC,In person,Female,Straight,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,She/Her,Student,4,Sexual Assault,Sexual Assault
+297,266,Graduated,2020-05-28,CS EAE,ISO-GRC,In person,Female,Straight,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,She/Her,Employee,4,Sexual Assault,Sexual Assault
+298,267,Enrolled,,Chemistry PhD,,In person,Trans man,,No,,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),D,He/Him,Student,4,Other,Other
+299,268,Enrolled,,,Guest Communications,In person,Female,Straight,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,She/Her,Student,4,Stalking,Sexual Harassment
+300,268,Enrolled,,,Guest Communications,In person,Female,Straight,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,She/Her,Employee,4,Stalking,Sexual Harassment
+301,269,Enrolled,,Math/Bio,College of Science Housing,In person,Nonbinary / Gender Queer,Queer,,,,English,No,No,No,Yes,No,No,Active (currently engaged),D,He/Him,Student,12,Rape,Sexual Assault
+302,269,Enrolled,,Math/Bio,College of Science Housing,In person,Nonbinary / Gender Queer,Queer,,,,English,No,No,No,Yes,No,No,Active (currently engaged),D,He/Him,Employee,12,Rape,Sexual Assault
+303,270,Enrolled,,Health promotion and Ed,,In person,,,,,,,,,,,,,Inactive (currently not engaged),C,She/Her,Student,4,Dating Violence,Violence
+304,271,,,Mathematics,Mathematics,In person,Female,Other,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,She/Her,Student,3,Sexual Harassment,Sexual Harassment
+305,271,,,Mathematics,Mathematics,In person,Female,Other,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,She/Her,Employee,3,Sexual Harassment,Sexual Harassment
+306,272,Enrolled,,Mechanical Engineering,,In person,Female,Bisexual,No,,,English,Yes,No,No,No,Yes,No,Inactive (currently not engaged),D,She/Her,Student,2,Sexual Assault,Sexual Assault
+307,274,Enrolled,,Business Administration,,In person,Female,Straight,No,US Citizen,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),D,NaN,Student,11,Domestic Violence,Violence
+308,276,Enrolled,,Piano Performance,,In person,Female,,,,,,,,,,,,Active (currently engaged),D,She/Her,Student,5,Sexual Assault,Sexual Assault
+309,277,Enrolled,,Biology,,In person,Female,Straight,No,,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),D,She/Her,Student,5,Dating Violence,Violence
+310,278,Enrolled,,Psych/Poli Sci,,In person,Female,Bisexual,No,Non-immigrant,,English,No,No,No,No,No,No,Active (currently engaged),D,She/Her,Student,14,Rape,Sexual Assault
+311,279,Enrolled,,Criminalogy,,In person,,,Prefer not to disclose,,,,No,No,No,Yes,No,No,Inactive (currently not engaged),C,NaN,Student,7,Domestic Violence,Violence
+312,280,Enrolled,,Urban Ecology,,In person,Male,Straight,Yes,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,He/Him,Student,5,Domestic Violence,Violence
+313,281,Enrolled,,Social Behavioral / Psychology,,In person,Female,Straight,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,She/Her,Student,3,Unknown,Other
+314,282,Enrolled,,Anthropology,,In person,Female,Straight,Other,citizen,,english,No,No,No,No,No,No,Active (currently engaged),A,She/Her,Student,27,Rape,Sexual Assault
+315,284,Graduated,2020-04-30,Social Work,,In person,Male,Gay,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,He/Him,Student,6,Sexual Harassment,Sexual Harassment
+316,284,Graduated,2020-04-30,Social Work,,In person,Male,Gay,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,He/Him,Employee,6,Sexual Harassment,Sexual Harassment
+317,285,Enrolled,,Computer Science,,In person,Female,Straight,No,,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),D,She/Her,Student,4,Rape,Sexual Assault
+318,286,,,HSP,,In person,Female,Straight,,,,English,No,No,No,Yes,No,No,Inactive (currently not engaged),D,She/Her,Student,5,Unknown,Other
+319,287,Enrolled,,Athletic Training,,In person,,,,,,,,,,,,,Inactive (currently not engaged),D,She/Her,Student,3,Stalking,Sexual Harassment
+320,291,Enrolled,,Undeclared/ D.P.S,,In person,Male,Gay,Yes,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Student,5,Sexual Harassment,Sexual Harassment
+321,291,Enrolled,,Undeclared/ D.P.S,,In person,Male,Gay,Yes,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Employee,5,Sexual Harassment,Sexual Harassment
+322,292,Enrolled,,Chemistry,,In person,Female,Other,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,4,Sexual Assault,Sexual Assault
+323,292,Enrolled,,Chemistry,,In person,Female,Other,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,4,Sexual Assault,Sexual Assault
+324,293,Enrolled,,Writing/English,,Tele-Advocacy,Female,Straight,No,citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,4,Domestic Violence,Violence
+325,294,Enrolled,,Undecided,University Hospital,Phone,,,,,,,,No,No,No,No,,Inactive (currently not engaged),D,She/Her,Student,5,Stalking,Sexual Harassment
+326,294,Enrolled,,Undecided,University Hospital,Phone,,,,,,,,No,No,No,No,,Inactive (currently not engaged),D,She/Her,Employee,5,Stalking,Sexual Harassment
+327,298,Enrolled,,Psychology,Primary Children's Hospital (diet tech),Tele-Advocacy,Female,Straight,No,Permanent Resident,,English,No,No,No,Yes,No,No,Active (currently engaged),D,She/Her,Student,12,Domestic Violence,Violence
+328,298,Enrolled,,Psychology,Primary Children's Hospital (diet tech),Tele-Advocacy,Female,Straight,No,Permanent Resident,,English,No,No,No,Yes,No,No,Active (currently engaged),D,She/Her,Employee,12,Domestic Violence,Violence
+329,299,Enrolled,,School of computing / CS,,Tele-Advocacy,Female,Straight,No,F1 Visa,,English,No,No,No,No,Yes,No,Inactive (currently not engaged),D,She/Her,Student,5,Stalking,Sexual Harassment
+330,300,Enrolled,,Science / Chemistry,,Tele-Advocacy,Female,,No,,,English,No,No,No,No,No,Prefer not to disclose,Active (currently engaged),D,She/Her,Student,4,Domestic Violence,Violence
+331,301,,,,HRE,Tele-Advocacy,Female,Queer,No,Citizen,,,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,5,Other,Other
+332,302,Enrolled,,Business,,Tele-Advocacy,Female,Straight,No,,,English,No,No,No,No,No,No,Active (currently engaged),D,She/Her,Student,5,Dating Violence,Violence
+333,303,,,,Campus Store,Phone,Female,Straight,No,,,English,No,No,No,No,No,No,Active (currently engaged),D,She/Her,Employee,2,Sexual Assault,Sexual Assault
+334,304,Enrolled,,Kinesiology Predental,,Tele-Advocacy,Female,Straight,No,,,English,No,No,No,No,No,No,Active (currently engaged),D,She/Her,Student,5,Stalking,Sexual Harassment
+335,306,,,,Facilities,Tele-Advocacy,Female,,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,2,Domestic Violence,Violence
+336,308,,,,Madsen Lab,Tele-Advocacy,Female,Straight,,,,English,No,No,No,No,No,No,Active (currently engaged),D,She/Her,Employee,2,Sexual Harassment,Sexual Harassment
+337,309,,,,UNI,Tele-Advocacy,Female,Straight,No,,,English,No,No,No,No,No,No,Active (currently engaged),D,She/Her,Employee,2,Dating Violence,Violence
+338,310,,,,U-hospital/ER,Tele-Advocacy,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,3,Sexual Harassment,Sexual Harassment
+339,311,Enrolled,,Biology of Science ,,Tele-Advocacy,Female,,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,NaN,Student,2,Domestic Violence,Violence
+340,313,Enrolled,,   Communication ,,Tele-Advocacy,Female,Other,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,2,Domestic Violence,Violence
+341,314,,,,   Ukids,,Female,Other,No,Permanent resident ,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,NaN,Employee,2,Domestic Violence,Violence
+342,315,,,,Nutrition care service,Tele-Advocacy,Female,,No,,,,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,2,Sexual Harassment,Sexual Harassment
+343,316,,,,School of Business,Tele-Advocacy,Female,Straight,No,Citizen,,English,No,No,No,No,No,No,Active (currently engaged),C,She/Her,Employee,4,Stalking,Sexual Harassment
+344,317,Enrolled,,   Masters of Occupational Therapy,,Phone,Male,Straight,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Student,3,Sexual Assault,Sexual Assault
+345,318,,,Distribution,,Tele-Advocacy,Female,,No,,,,No,No,No,No,No,No,Active (currently engaged),C,He/Him,Faculty,5,Sexual Harassment,Sexual Harassment
+346,323,,,,Facilities / Mariott Library,Phone,Female,Straight,No,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,She/Her,Employee,3,Sexual Harassment,Sexual Harassment
+347,329,Enrolled,,,University of Utah Health and Hospitals,Tele-Advocacy,Female,Prefer not to disclose,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Student,2,Sexual Harassment,Sexual Harassment
+348,329,Enrolled,,,University of Utah Health and Hospitals,Tele-Advocacy,Female,Prefer not to disclose,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,She/Her,Employee,2,Sexual Harassment,Sexual Harassment
+349,330,,,,Dialysis,Tele-Advocacy,Female,Straight,No,Citizen,,English,,No,No,No,No,No,Inactive (currently not engaged),C,NaN,Employee,3,Sexual Harassment,Sexual Harassment
+350,331,Enrolled,, Entertainment Arts and Engineering Master's,,Tele-Advocacy,,Straight,No,Cititzen,,English,No,No,No,No,No,No,Active (currently engaged),C,She/Her,Student,3,Sexual Harassment,Sexual Harassment
+351,332,Enrolled,,   Entertainment Arts and Engineering,,Tele-Advocacy,Trans man,Gay,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Student,2,Domestic Violence,Violence
+352,333,Enrolled,,Engineering,,Tele-Advocacy,Female,Straight,No,Citizen,,,No,No,No,Yes,No,No,Inactive (currently not engaged),C,She/Her,Student,2,Sexual Harassment,Sexual Harassment
+353,337,Enrolled,,Grad Rhet Comp,,Tele-Advocacy,Trans woman,Straight,,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,She/Her,Student,2,Dating Violence,Violence
+354,337,Enrolled,,Grad Rhet Comp,,Tele-Advocacy,Trans woman,Straight,,,,English,No,No,No,No,No,No,Inactive (currently not engaged),D,She/Her,Faculty,2,Dating Violence,Violence
+355,339,Enrolled,,English,,Tele-Advocacy,Nonbinary / Gender Queer,Other,No,Citizen,,English,No,No,No,No,No,No,Inactive (currently not engaged),C,He/Him,Student,2,Other,Other
+356,340,Enrolled,,Elementary Education,,Tele-Advocacy,Female,Straight,No,,,English,No,No,No,No,No,No,Active (currently engaged),A,She/Her,Student,3,Dating Violence,Violence
+357,341,Enrolled,,Psychology/Sociology,,Tele-Advocacy,Female,Straight,No,No,,English,No,No,No,No,No,No,Active (currently engaged),A,She/Her,Student,2,Sexual Assault,Sexual Assault
+358,342,Enrolled,,Health/Kinesology,,Tele-Advocacy,Female,Straight,,,,English,No,No,Yes,No,No,No,Active (currently engaged),A,He/Him,Student,3,Sexual Assault,Sexual Assault
+359,343,Enrolled,,Modern Dance,,Tele-Advocacy,Female,Bisexual,No,,,English,No,No,No,No,No,No,Active (currently engaged),A,She/Her,Student,2,Sexual Assault,Sexual Assault
+360,344,Enrolled,,"Fine art, business ",,Tele-Advocacy,Female,Bisexual,No,Citizen,,English,No,No,No,No,No,No,Active (currently engaged),C,She/Her,Student,2,Sexual Assault,Sexual Assault
